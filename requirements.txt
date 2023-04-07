@@ -1,0 +1,4 @@
+ipykernel
+notebook
+matplotlib
+matplotlib-inline
